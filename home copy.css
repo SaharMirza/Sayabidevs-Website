@@ -1,0 +1,148 @@
+#heading{
+    height:200px;
+    background: none;
+}
+#nav{
+  
+    
+}
+.box{
+    
+}
+#image2{
+    position: relative;
+    height: 500px;
+   }
+
+
+       
+       .text{
+        /* padding: 30px; */
+        /* bottom: 2px; */
+        padding-top: 100px;
+position: absolute;
+float: left;
+
+font-family: 'League Spartan', sans-serif;
+font-size: 70px;
+       }
+       .text2{
+        float: left;
+        
+        font-size: 60px;
+        padding-top: 170px;
+
+       }
+       .text3{
+        padding-top: 220px;
+        font-family: 'Libre Baskerville', serif;
+       }
+.navigate{
+    background-color: #557BBD;
+    opacity: 85%;
+    /* box-shadow: 10px 10px 5px 0px rgba(85,123,189,0.75);
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(85,123,189,0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(85,123,189,0.75); */
+    
+    
+}
+#navi{
+    font-family: 'Libre Baskerville', serif;
+    color: white;
+    font-size: 20px;
+}
+#navi:hover{
+    
+    color: red;
+    
+}
+#card1{
+
+}
+#subtext1{
+font-family:'League Spartan', sans-serif; ;
+color: #557BBD;
+
+
+}
+#icons{
+   
+height: 100px;
+width: 100px;
+justify-content: center;
+opacity: 50%;
+}
+#icons:hover{
+
+    opacity: 100%;
+}
+#service{
+    border: none;
+    outline: none;
+}
+.subtext4{
+    color: red;
+}
+#subtext3{
+    font-family:'League Spartan', sans-serif; ;
+color: #557BBD;
+}
+#subtext4{
+    font-family:'League Spartan', sans-serif; ;
+    color: red;
+
+}
+.foot{
+background-color: #557BBD;
+color: white;
+margin: 0%;
+margin-left: 0px;
+
+}
+#subtext4{
+    font-size: 40px;
+}
+
+
+ @media only screen and (max-width: 600px)
+{
+    #image1{
+        height: 150px;
+}
+#heading{
+    height:100px;
+    background: none;
+}
+#image2{
+    /* position: relative; */
+    height: 200px;
+    
+   } 
+
+   
+
+        
+
+        .text2{
+            float: left;
+            
+            font-size: 30px;
+            padding-top:50px;
+    
+           }
+           .text3{
+            font-size: 20px;
+            padding-top: 80px;
+            font-family: 'Libre Baskerville', serif;
+           }
+           .text1{padding-top:20px ;
+            font-size: 30px;
+           }
+          
+           #subtext4{
+            font-size: 20px;
+
+
+           }
+
+        } 
